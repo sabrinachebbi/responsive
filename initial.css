@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.blue {
+    background: blue;
+}
+.red {
+    background: red;
+}
+.yellow {
+    background: yellow;
+}
+.green {
+    background: green;
+}
+.black {
+    background: black;
+}
+.orange {
+    background: orange;
+}
+.purple {
+    background: purple;
+}
+.pink {
+    background: pink;
+}
+.brown {
+    background: brown;
+}
+.magenta {
+    background: magenta;
+}
+
+div {
+    min-height: 200px;
+    min-width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: white;
+    font-size: 2em;
+}
